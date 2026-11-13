@@ -1,6 +1,7 @@
 # Amazon × CU Lines 舆情监测简报（下午）
 
-**执行时间：** 2026-11-13 10:54（GMT+8）  
+**执行时间：** 2026-11-13 14:55（GMT+8）
+
 **监测对象：** Amazon / Amazon Logistics / Beijing Century Joyo 与 China United Lines（CU Lines / 中联航运）  
 **状态灯：** 🔴 **红色预警｜风险等级：高（84/100，较上轮持平）**
 
